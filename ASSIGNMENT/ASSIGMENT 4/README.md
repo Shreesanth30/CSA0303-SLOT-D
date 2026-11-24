@@ -17,9 +17,9 @@ Complete C11 reference solution and evidence repository.
 - [Complete answers (Markdown)](report/Assignment4_Complete_Answers.md)
 
 ## Student details (fill before submission)
-- Name: Vimal R
-- Register Number: [ENTER REGISTER NUMBER]
-- Course: Data Structures (CSA03)
+- Name: M.S.SHREESANTH
+- Register Number: 192524290
+- Course: Data Structures (CSA0303)
 - Compiler: GCC [record installed version]
 - Compile flags: `-std=c11 -Wall -Wextra -O2`
 
